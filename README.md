@@ -23,6 +23,6 @@ let key2 ={
 }
 ```
 # References
-[Axios](https://www.npmjs.com/package/axios)
-[Crypto-js](https://www.npmjs.com/package/crypto-js)
-[ws(WebSocket)](https://www.npmjs.com/package/ws)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Crypto-js](https://www.npmjs.com/package/crypto-js)
+- [ws(WebSocket)](https://www.npmjs.com/package/ws)
